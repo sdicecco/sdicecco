@@ -49,14 +49,7 @@
     <a href="https://docs.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="bash" width="40" height="40"/></a>
 
-  
-  
-  
 
-|  |  |  |
-| :---         |     :---:      |          ---: |
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=macorifice&show_icons=true&locale=en&layout=compact" alt="macorifice" />   | <img align="center" src="https://github-readme-stats.vercel.app/api?username=macorifice&show_icons=true&locale=en" alt="macorifice" />     | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macorifice&" alt="macorifice" />    |
- 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/stefano-di-cecco-40343170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stefano-di-cecco-40343170" height="30" width="40" /></a>
